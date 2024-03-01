@@ -1,0 +1,35 @@
+
+.tikTape{
+  
+   background-color: #0a0b0a;
+    display: flex;  
+    padding:2px;
+    justify-content: space-evenly;
+    
+}
+
+.adTxt{
+   height:30px;
+   color: white
+  
+}
+
+.navbar{
+  height: 50px;
+  width: 50px;
+   padding:3px;
+   display:flex;
+   justify-content: space-between;
+   border: solid red;
+}
+.groupPic{
+   height: 100%;
+   
+
+}
+
+.singles{
+height: 100%;
+display: flex
+
+}
